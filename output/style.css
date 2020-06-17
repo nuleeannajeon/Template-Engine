@@ -1,0 +1,31 @@
+.team-heading {
+    background:linear-gradient(to bottom, rgba(235, 236, 131, 0.2) 100%,rgba(235, 236, 131, 0.2) 100%), url('https://static.makeuseof.com/wp-content/uploads/2019/03/whats-coding-994x400.jpg') repeat 0 0;
+    background-size: cover;
+    background-position: center top;
+    position: relative;
+    width: 100%;
+}
+
+.team-name {
+    color: white;
+    text-shadow: 4px 4px 10px rgb(0, 0, 0);
+}
+
+.employee-info{
+    margin-top: 40px;
+}
+
+.manager-header {
+    background: #aa3232;
+    color: white;
+}
+
+.engineer-header {
+    background: #314097;
+    color: white;
+}
+
+.intern-header {
+    background: #2b8b2b;
+    color:white;
+}
